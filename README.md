@@ -1,3 +1,3 @@
 # Hack-Kludge-Website
 
-Hack/Kludge code coded at CodeFactory
+Hack/Kludge code coded at CodeFactory(1h)
